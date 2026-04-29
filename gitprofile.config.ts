@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'ccbentley', // Your GitHub org/user name. (This is the only required config)
+    username: '/', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/portfolio/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -74,7 +74,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'ccbentley',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
