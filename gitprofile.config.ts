@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/portfolio/',
   projects: {
     github: {
-      display: false, // Display GitHub projects?
+      display: true, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
