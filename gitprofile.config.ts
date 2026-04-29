@@ -121,16 +121,10 @@ const CONFIG = {
   */
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'McMaster University',
+      degree: 'B.A.Sc. in Computer Science',
+      from: '2026',
+      to: '2030',
     },
   ],
   /*
